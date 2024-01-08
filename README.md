@@ -16,11 +16,15 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 <p align='left'>
   <img alt="Express" src="https://img.shields.io/badge/Express-gray?logo=express">
+  <img alt="Git" src="https://img.shields.io/badge/Git-gray?logo=git">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-gray?logo=github">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-gray?logo=jira">
   <img alt="JSON" src="https://img.shields.io/badge/JSON-gray?logo=json">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-gray?logo=mongodb">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-gray?logo=mongoose">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs">
   <img alt="React" src="https://img.shields.io/badge/React-gray?logo=react">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-gray?logo=trello">
 </p>
 
 ## IDEs I've Used
