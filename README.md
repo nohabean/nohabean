@@ -7,8 +7,13 @@ I am currently a packaging engineer at Honda and a computer science student at O
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
 <img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
 <img alt="C++" src="https://img.shields.io/badge/C++-gray?logo=cplusplus">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?logo=kotlin">
 
 ## Developer Tools I've Used
+
+## Other Software
+
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-gray?logo=adobeillustrator">
 
 <!--
 **nohabean/nohabean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
