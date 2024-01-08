@@ -102,31 +102,21 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23008DE2?logo=trello&logoColor=white">
 </p>
 
-<!--
-**nohabean/nohabean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+- I’m currently working on ...
+</p>
+<p>
+- I’m currently learning ...
+</p>
 
 ## Github Stats
-<!-- Visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/nohabean/count.svg" />
-</p> 
 
 <div display='left'>
   <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=nohabean&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   <img height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=nohabean&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
 </div>
+
+<!-- contributions graph [![Noah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohabean&custom_title=Contributions&hide_border=true&theme=tokyo-night)](https://github.com/nohabean/github-readme-activity-graph) -->
 
 ## Contact
 <p>
@@ -140,3 +130,6 @@ Here are some ideas to get you started:
     <img alt="G-mail" src="https://img.shields.io/badge/Gmail-%23EA4235?logo=gmail&logoColor=white">
   </a>
 </p>
+
+<br>
+<p>&copy; Noah Dean 2024</p>
