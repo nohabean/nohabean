@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nohabean&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-<br>
-<img align="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nohabean&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-<img align="" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nohabean&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
+<div display='left'>
+  <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=nohabean&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=nohabean&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
+</div>
 
 ## Contact
 <p>
