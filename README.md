@@ -116,3 +116,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact
+<p>
+  <a href='https://github.com/nohabean' target='_blank'>
+    <img alt="GitHub" src="https://img.shields.io/badge/%23008DE2?logo=github&logoColor=white">
+  </a>
+  <a href='' target='_blank'>
+    <img>
+  </a>
+  <a href='mailto:noahdean927@gmail.com' target='_blank'>
+    <img alt="G-mail" src="https://img.shields.io/badge/G-mail-%23008DE2?logo=gmail&logoColor=white">
+  </a>
+</p>
