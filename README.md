@@ -41,12 +41,12 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ## Other Software
 
 <p align='left'>
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-gray?logo=adobeillustrator">
-  <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-gray?logo=autocad">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-gray?logo=figma">
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-gray?logo=jira">
-  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-gray?logo=makerbot">
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-gray?logo=trello">
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00?logo=adobeillustrator&logoColor=white">
+  <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-%23C92223?logo=autocad&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%239F56FD?logo=figma%logoColor=white">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-%230255CF?logo=jira&logoColor=white">
+  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=white">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23008DE2?logo=trello&logoColor=white">
 </p>
 
 <!--
