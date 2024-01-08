@@ -34,8 +34,8 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-gray?logo=eclipseide">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-gray?logo=intellijidea">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-gray?logo=pycharm">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=important"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=important">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
 ## Other Software
