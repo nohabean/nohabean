@@ -4,7 +4,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 ## Languages I Know
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
-<img alt="Java" src="https://img.shields.io/badge/Java-gray?logo=java">
+<img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
 
 ## Developer Tools I've Used
 
