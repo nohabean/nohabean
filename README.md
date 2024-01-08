@@ -17,8 +17,8 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 <p align='left'>
   <img alt="Express" src="https://img.shields.io/badge/Express-gray?logo=express">
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=important">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=important"/>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-gray?logo=json&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-gray?logo=mongodb">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-gray?logo=mongoose">
