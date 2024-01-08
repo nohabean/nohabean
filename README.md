@@ -6,6 +6,8 @@
 
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
+-----
+
 <!-- Black logo set with colorful symbols 
 
 ## Languages I Know
@@ -107,12 +109,16 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23008DE2?logo=trello&logoColor=white">
 </p>
 
+-----
+
 <p>
 - I’m currently working on ...
 </p>
 <p>
 - I’m currently learning ...
 </p>
+
+-----
 
 ## Github Stats
 
@@ -122,6 +128,8 @@ I am currently a packaging engineer at Honda and a computer science student at O
 </div>
 
 <!-- contributions graph [![Noah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohabean&custom_title=Contributions&hide_border=true&theme=tokyo-night)](https://github.com/nohabean/github-readme-activity-graph) -->
+
+-----
 
 ## Contact
 <p>
@@ -136,5 +144,6 @@ I am currently a packaging engineer at Honda and a computer science student at O
   </a>
 </p>
 
-<br>
+-----
+
 <p>&copy; Noah Dean 2024</p>
