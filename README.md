@@ -3,7 +3,7 @@
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
 ### Languages I Know
-<br border-bottom='2px dotted blue'>
+<div border-top='2px dotted blue'>
 <p align='left'>
   <img alt="C++" src="https://img.shields.io/badge/C++-gray?logo=cplusplus">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-gray?logo=css3">
@@ -12,6 +12,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?logo=kotlin">
   <img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
 </p>
+</div>
 
 ## Developer Tools and Technologies I've Used
 
