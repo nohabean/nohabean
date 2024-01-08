@@ -14,6 +14,8 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 ## Developer Tools and Technologies I've Used
 <p align='left'>
+  <img alt="Express" src="https://img.shields.io/badge/Express-gray?logo=express">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-gray?logo=json">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-gray?logo=mongodb">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-gray?logo=mongoose">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs">
