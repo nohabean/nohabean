@@ -13,6 +13,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 </p>
 
 ## Developer Tools and Technologies I've Used
+
 <p align='left'>
   <img alt="Express" src="https://img.shields.io/badge/Express-gray?logo=express">
   <img alt="JSON" src="https://img.shields.io/badge/JSON-gray?logo=json">
@@ -20,6 +21,13 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-gray?logo=mongoose">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs">
   <img alt="React" src="https://img.shields.io/badge/React-gray?logo=react">
+</p>
+
+## IDEs I've Used
+
+<p align='left'>
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-gray?logo=eclipseide">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-gray?logo=visualstudio">
 </p>
 
 ## Other Software
