@@ -23,7 +23,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23414044?logo=mongodb&logoColor=%234FB23F">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs">
-  <img alt="React" src="https://img.shields.io/badge/React-gray?logo=react">
+  <img alt="React" src="https://img.shields.io/badge/React-%23222222?logo=react">
 </p>
 
 ## IDEs I've Used
