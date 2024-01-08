@@ -5,7 +5,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ### Languages I Know
 <div style='border-top: 2px dotted blue;'></div>
 <p align='left'>
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-gray?logo=css3">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-gray?logo=html5">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
@@ -16,9 +16,9 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ## Developer Tools and Technologies I've Used
 
 <p align='left'>
-  <img alt="Express" src="https://img.shields.io/badge/Express-white?logo=express&logoColor=%23333333">
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F25232.svg?logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-%23333333?logo=express&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F25232?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-white?logo=json&logoColor=%234F4F4F">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23414044?logo=mongodb&logoColor=%234FB23F">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose">
