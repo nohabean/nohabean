@@ -29,13 +29,13 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ## IDEs I've Used
 
 <p align='left'>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-gray?logo=androidstudio">
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-gray?logo=arduino">
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-gray?logo=eclipseide">
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-gray?logo=intellijidea">
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-gray?logo=pycharm">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23008184?logo=arduino&logoColor=white">
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%23F7941E?logo=eclipseide&logoColor=white">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23FE305D?logo=intellijidea&logoColor=white">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%2320D590?logo=pycharm&logoColor=white">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2369207A?logo=visualstudio&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230179CB?logo=visualstudiocode&logoColor=white">
 </p>
 
 ## Other Software
