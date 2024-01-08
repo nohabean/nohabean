@@ -119,13 +119,13 @@ Here are some ideas to get you started:
 
 ## Contact
 <p>
-  <a href='https://github.com/nohabean' target='blank'>
+  <a href='https://github.com/nohabean' target='_blank'>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
   </a>
-  <a href='https://www.linkedin.com/in/noah-dean/' target='blank'>
+  <a href='https://www.linkedin.com/in/noah-dean/' target='_blank'>
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230366C3?logo=linkedin&logoColor=white">
   </a>
-  <a href='mailto:noahdean927@gmail.com' target='blank'>
+  <a href='mailto:noahdean927@gmail.com' target='_blank'>
     <img alt="G-mail" src="https://img.shields.io/badge/Gmail-%23EA4235?logo=gmail&logoColor=white">
   </a>
 </p>
