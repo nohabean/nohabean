@@ -112,8 +112,8 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ## Github Stats
 
 <div display='left'>
-  <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=nohabean&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-  <img height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=nohabean&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
+  <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=nohabean&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=nohabean&hide_border=true&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
 </div>
 
 <!-- contributions graph [![Noah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohabean&custom_title=Contributions&hide_border=true&theme=tokyo-night)](https://github.com/nohabean/github-readme-activity-graph) -->
