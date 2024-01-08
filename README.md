@@ -2,8 +2,59 @@
 
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
-### Languages I Know
-<div style='border-top: 2px dotted blue;'></div>
+<!-- Black logo set with colorful symbols -->
+
+## Languages I Know
+
+<p align='left'>
+  <img alt="C++" src="https://img.shields.io/badge/C++-black?logo=cplusplus&logoColor=%2300599C">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%23214CE5">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=%23E54C21">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F0DB4E">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-black?logo=kotlin&logoColor=%238764FF">
+  <img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=%233C79AA">
+</p>
+
+## Developer Tools and Technologies I've Used
+
+<p align='left'>
+  <img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=%23333333">
+  <img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=%23F25232">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=%23000000"/>
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%234F4F4F">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=%234FB23F">
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-black?logo=mongoose&logoColor=%23880000">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?logo=nodedotjs&logoColor=%2369B167">
+  <img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=%2300D8FF">
+</p>
+
+## IDEs I've Used
+
+<p align='left'>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-black?logo=androidstudio&logoColor=%233DDC84">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-black?logo=arduino&logoColor=%23008184">
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-black?logo=eclipseide&logoColor=%232C2255">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellijidea&logoColor=%23FE305D">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-black?logo=pycharm&logoColor=%2320D590">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudio&logoColor=%2369207A"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=%230179CB">
+</p>
+
+## Other Software
+
+<p align='left'>
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-black?logo=adobeillustrator&logoColor=%23FF9A00">
+  <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-black?logo=autocad&logoColor=%23C92223">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=%239F56FD">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-black?logo=jira&logoColor=%230255CF">
+  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=%23000000">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-black?logo=trello&logoColor=%23008DE2">
+</p>
+
+<!-- Colorful Logos -->
+
+## Languages I Know
+
 <p align='left'>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%23214CE5?logo=css3&logoColor=white">
