@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 ### Contact
 <p>
   <a href='https://github.com/nohabean' target='_blank'>
-    <img alt="GitHub" src="https://img.shields.io/badge/%23008DE2?logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/logo=github&logoColor=white">
   </a>
   <a href='' target='_blank'>
     <img>
