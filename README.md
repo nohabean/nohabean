@@ -44,6 +44,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-gray?logo=autocad">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-gray?logo=figma">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-gray?logo=jira">
+  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-gray?logo=makerbot">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-gray?logo=trello">
 </p>
 
