@@ -2,6 +2,11 @@
 
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
+## Languages I Know
+<img alt="java" src="https://img.shields.io/badge/java-%232370ED.svg?logo=java&logoColor=white">
+
+## Developer Tools I've Used
+
 <!--
 **nohabean/nohabean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
