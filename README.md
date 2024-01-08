@@ -21,7 +21,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=%23F25232">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%234F4F4F">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%23B6B6B6">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=%234FB23F">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-black?logo=mongoose&logoColor=%23880000">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?logo=nodedotjs&logoColor=%2369B167">
@@ -33,7 +33,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 <p align='left'>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-black?logo=androidstudio&logoColor=%233DDC84">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-black?logo=arduino&logoColor=%23008184">
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-black?logo=eclipseide&logoColor=%232C2255">
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-black?logo=eclipseide&logoColor=%23F7941E">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellijidea&logoColor=%23FE305D">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-black?logo=pycharm&logoColor=%2320D590">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudio&logoColor=%2369207A"/>
