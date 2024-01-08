@@ -18,9 +18,9 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ## Developer Tools and Technologies I've Used
 
 <p align='left'>
-  <img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=%23333333">
+  <img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=%23F25232">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=%23000000"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%234F4F4F">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=%234FB23F">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-black?logo=mongoose&logoColor=%23880000">
@@ -47,7 +47,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-black?logo=autocad&logoColor=%23C92223">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=%239F56FD">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-black?logo=jira&logoColor=%230255CF">
-  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=%23000000">
+  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-black?logo=trello&logoColor=%23008DE2">
 </p>
 
