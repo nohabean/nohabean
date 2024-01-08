@@ -118,6 +118,11 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
+<!-- Visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/nohabean/count.svg" />
+</p> 
+
 <div display='left'>
   <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=nohabean&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   <img height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=nohabean&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
