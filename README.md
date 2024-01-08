@@ -5,7 +5,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ### Languages I Know
 <div style='border-top: 2px dotted blue;'></div>
 <p align='left'>
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-gray?logo=css3">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-gray?logo=html5">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
