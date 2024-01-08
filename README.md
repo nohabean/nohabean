@@ -3,7 +3,7 @@
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
 ## Languages I Know
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-blue?logo=javascript">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
 
 ## Developer Tools I've Used
 
