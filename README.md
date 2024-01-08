@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' width='100%' background-color='black'>
   <img src="https://web.engr.oregonstate.edu/~deanno/a4-deanno/android-chrome-192x192.png" alt="logo">
 </div>
 
