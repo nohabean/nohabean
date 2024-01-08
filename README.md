@@ -9,7 +9,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%23214CE5?logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E54C21?logo=html5&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F0DB4E?logo=javascript&logoColor=white">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?logo=kotlin">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%238764FF?logo=kotlin&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-%233C79AA?logo=python&logoColor=white">
 </p>
 
@@ -19,11 +19,11 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Express" src="https://img.shields.io/badge/Express-%23333333?logo=express&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F25232?logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-white?logo=json&logoColor=%234F4F4F">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23414044?logo=mongodb&logoColor=%234FB23F">
-  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23333333?logo=nodedotjs">
-  <img alt="React" src="https://img.shields.io/badge/React-%23222222?logo=react">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-%234F4F4F?logo=json&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234FB23F?logo=mongodb&logoColor=white">
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2369B167?logo=nodedotjs&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-%2300D8FF?logo=react&logoColor=white">
 </p>
 
 ## IDEs I've Used
