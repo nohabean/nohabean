@@ -26,8 +26,13 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ## IDEs I've Used
 
 <p align='left'>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-gray?logo=androidstudio">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-gray?logo=arduino">
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-gray?logo=eclipseide">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-gray?logo=intellijidea">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-gray?logo=pycharm">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-gray?logo=visualstudio">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-gray?logo=visualstudiocode">
 </p>
 
 ## Other Software
