@@ -126,6 +126,6 @@ Here are some ideas to get you started:
     <img>
   </a>
   <a href='mailto:noahdean927@gmail.com' target='_blank'>
-    <img alt="G-mail" src="https://img.shields.io/badge/Gmail-%23008DE2?logo=gmail&logoColor=white">
+    <img alt="G-mail" src="https://img.shields.io/badge/%23EA4235?logo=gmail&logoColor=white">
   </a>
 </p>
