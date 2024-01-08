@@ -117,15 +117,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact
+## Contact
 <p>
   <a href='https://github.com/nohabean' target='_blank'>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
   </a>
-  <a href='' target='_blank'>
-    <img>
+  <a href='https://www.linkedin.com/in/noah-dean/' target='_blank'>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230366C3?logo=linkedin&logoColor=white">
   </a>
   <a href='mailto:noahdean927@gmail.com' target='_blank'>
-    <img alt="G-mail" src="https://img.shields.io/badge/%23EA4235?logo=gmail&logoColor=white">
+    <img alt="G-mail" src="https://img.shields.io/badge/Gmail-%23EA4235?logo=gmail&logoColor=white">
   </a>
 </p>
