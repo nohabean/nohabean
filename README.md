@@ -4,15 +4,21 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 ## Languages I Know
 <p align='left'>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-gray?logo=html5">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-gray?logo=css3">
-<img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
-<img alt="C++" src="https://img.shields.io/badge/C++-gray?logo=cplusplus">
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?logo=kotlin">
+  <img alt="C++" src="https://img.shields.io/badge/C++-gray?logo=cplusplus">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-gray?logo=css3">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-gray?logo=html5">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?logo=kotlin">
+  <img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
 </p>
 
-## Developer Tools I've Used
+## Developer Tools and Technologies I've Used
+<p align='left'>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-gray?logo=mongodb">
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-gray?logo=mongoose">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs">
+  <img alt="React" src="https://img.shields.io/badge/React-gray?logo=react">
+</p>
 
 ## Other Software
 
