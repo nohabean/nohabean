@@ -2,7 +2,7 @@
 
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
-<!-- Black logo set with colorful symbols -->
+<!-- Black logo set with colorful symbols 
 
 ## Languages I Know
 
@@ -50,6 +50,8 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-black?logo=trello&logoColor=%23008DE2">
 </p>
+
+-->
 
 <!-- Colorful Logos -->
 
