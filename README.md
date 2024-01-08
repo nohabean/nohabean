@@ -112,10 +112,17 @@ I am currently a packaging engineer at Honda and a computer science student at O
 -----
 
 <p>
-- I’m currently working on ...
+I’m currently working on ...
+  <ul>• Creating more advanced Android apps</ul>
+  <ul>• Creating an e-commerce website for a small business</ul>
+  <ul>• Creating a new web portfolio</ul>
 </p>
+<br>
 <p>
-- I’m currently learning ...
+I’m currently learning ...
+  <ul>• Advanced Web Development</ul>
+  <ul>• IOS/Swift App Development</ul>
+  <ul>• Advanced Android App Development</ul>
 </p>
 
 -----
