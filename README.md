@@ -6,7 +6,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
 <img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
-<img alt="C++" src="https://img.shields.io/badge/C++-gray?logo=c++">
+<img alt="C++" src="https://img.shields.io/badge/C++-gray?logo=cplusplus">
 
 ## Developer Tools I've Used
 
