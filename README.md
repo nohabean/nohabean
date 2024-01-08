@@ -60,8 +60,9 @@ I am currently a packaging engineer at Honda and a computer science student at O
 -->
 
 <!-- Colorful Logos -->
+## Skills and Technology
 
-## Programming Languages
+### Programming Languages
 
 <p align='left'>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white">
@@ -73,7 +74,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Python" src="https://img.shields.io/badge/Python-%233C79AA?logo=python&logoColor=white">
 </p>
 
-## Developer Tools and Technologies I've Used
+### Developer Tools and Technologies
 
 <p align='left'>
   <img alt="Express" src="https://img.shields.io/badge/Express-%23333333?logo=express&logoColor=white">
@@ -86,7 +87,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="React" src="https://img.shields.io/badge/React-%2300D8FF?logo=react&logoColor=white">
 </p>
 
-## IDEs I've Used
+### IDEs 
 
 <p align='left'>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white">
@@ -98,7 +99,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230179CB?logo=visualstudiocode&logoColor=white">
 </p>
 
-## Other Software
+### Other Software
 
 <p align='left'>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00?logo=adobeillustrator&logoColor=white">
