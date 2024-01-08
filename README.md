@@ -31,7 +31,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 <p align='left'>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23008184?logo=arduino&logoColor=white">
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%23F7941E?logo=eclipseide&logoColor=white">
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255?logo=eclipseide&logoColor=white">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23FE305D?logo=intellijidea&logoColor=white">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%2320D590?logo=pycharm&logoColor=white">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2369207A?logo=visualstudio&logoColor=white"/>
@@ -43,7 +43,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
 <p align='left'>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00?logo=adobeillustrator&logoColor=white">
   <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-%23C92223?logo=autocad&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-%239F56FD?logo=figma%logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%239F56FD?logo=figma&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-%230255CF?logo=jira&logoColor=white">
   <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23008DE2?logo=trello&logoColor=white">
