@@ -3,13 +3,14 @@
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
 ## Languages I Know
-
+<p align='left'>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-gray?logo=html5">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-gray?logo=css3">
 <img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
 <img alt="C++" src="https://img.shields.io/badge/C++-gray?logo=cplusplus">
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?logo=kotlin">
+</p>
 
 ## Developer Tools I've Used
 
