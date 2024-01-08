@@ -6,11 +6,11 @@ I am currently a packaging engineer at Honda and a computer science student at O
 <div style='border-top: 2px dotted blue;'></div>
 <p align='left'>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS--%23214CE5?logo=css3&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%23214CE5?logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E54C21?logo=html5&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F0DB4E?logo=javascript&logoColor=white">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?logo=kotlin">
-  <img alt="Python" src="https://img.shields.io/badge/Python-gray?logo=python">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233C79AA?logo=python&logoColor=white">
 </p>
 
 ## Developer Tools and Technologies I've Used
