@@ -1,6 +1,6 @@
-### Welcome to my GitHub
+## Hello, my name is Noah
 
-**My name is Noah and I am currently a packaging engineer at Honda and a computer science student at Oregon State University.**
+I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
 <!--
 **nohabean/nohabean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
