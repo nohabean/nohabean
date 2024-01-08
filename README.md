@@ -1,4 +1,8 @@
-## Hello, my name is Noah
+<div align='center'>
+  <img src="https://web.engr.oregonstate.edu/~deanno/a4-deanno/android-chrome-192x192.png" alt="logo">
+</div>
+
+# Hello, my name is Noah
 
 I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
 
