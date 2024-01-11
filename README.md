@@ -1,5 +1,5 @@
 <div align='center' width='100%' background-color='black'>
-  <img src="https://web.engr.oregonstate.edu/~deanno/a4-deanno/android-chrome-192x192.png" alt="logo">
+  <img src="https://github.com/nohabean/nohabean/blob/main/logo.png" alt="logo">
 </div>
 
 # Hello, my name is Noah
