@@ -72,7 +72,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F0DB4E?logo=javascript&logoColor=white">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%238764FF?logo=kotlin&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-%233C79AA?logo=python&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-$233C79AA?logo=sql&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%23DB7533?logo=amazondocumentdb&logoColor=white">
 </p>
 
 ### Developer Tools and Technologies
@@ -86,6 +86,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2369B167?logo=nodedotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-%2300D8FF?logo=react&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23015F8B?logo=mysql&logoColor=white">
 </p>
 
 ### IDEs 
