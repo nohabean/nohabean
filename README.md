@@ -84,9 +84,9 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%234F4F4F?logo=json&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234FB23F?logo=mongodb&logoColor=white">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23015F8B?logo=mysql&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2369B167?logo=nodedotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-%2300D8FF?logo=react&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23015F8B?logo=mysql&logoColor=white">
 </p>
 
 ### IDEs 
@@ -105,14 +105,16 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 <p align='left'>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00?logo=adobeillustrator&logoColor=white">
+  <img alter="Anycubic" src="https://img.shields.io/badge/Anycubic-%233A5F93?logo=anycubic&logoColor=white">
   <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-%23C92223?logo=autocad&logoColor=white">
+  <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk Inventor-%23DBAE04?logo=autodesk&logoColor=white">
+  <img alt="Creality" src="https://img.shields.io/badge/Creality-black?logo=creality&logoColor=white">
+  <img alt="Elegoo" src="https://img.shields.io/badge/Elegoo-%230236FF?logo=elegoo&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%239F56FD?logo=figma&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-%230255CF?logo=jira&logoColor=white">
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23008DE2?logo=trello&logoColor=white">
   <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=white">
-  <img alt="Elegoo" src="https://img.shields.io/badge/Elegoo-%230236FF?logo=elegoo&logoColor=white">
-  <img alter="Anycubic" src="https://img.shields.io/badge/Anycubic-%233A5F93?logo=anycubic&logoColor=white">
-  <img alt="Creality" src="https://img.shields.io/badge/Creality-black?logo=creality&logoColor=white">
+  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-%23EE2722?logo=dassaultsystemes&logoColor=white">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23008DE2?logo=trello&logoColor=white">
 </p>
 
 -----
