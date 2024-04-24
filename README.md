@@ -108,8 +108,11 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-%23C92223?logo=autocad&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%239F56FD?logo=figma&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-%230255CF?logo=jira&logoColor=white">
-  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23008DE2?logo=trello&logoColor=white">
+  <img alt="MakerBot" src="https://img.shields.io/badge/MakerBot-black?logo=makerbot&logoColor=white">
+  <img alt="Elegoo" src="https://img.shields.io/badge/Elegoo-%230236FF?logo=elegoo&logoColor=white">
+  <img alter="Anycubic" src="https://img.shields.io/badge/Anycubic-%233A5F93?logo=anycubic&logoColor=white">
+  <img alt="Creality" src="https://img.shields.io/badge/Creality-black?logo=creality&logoColor=white">
 </p>
 
 -----
