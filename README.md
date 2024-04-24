@@ -68,10 +68,11 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%23214CE5?logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E54C21?logo=html5&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%230078C1.svg?logo=openjdk&logoColor=white" >
+  <img alt="Java" src="https://img.shields.io/badge/Java-%230078C1.svg?logo=openjdk&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F0DB4E?logo=javascript&logoColor=white">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%238764FF?logo=kotlin&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-%233C79AA?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-$233C79AA?logo=sql&logoColor=white">
 </p>
 
 ### Developer Tools and Technologies
