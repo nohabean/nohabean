@@ -148,17 +148,9 @@ I’m currently learning ...
 -----
 
 ## Contact
-<p>
-  <a href='https://github.com/nohabean'>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
-  </a>
-  <a href='https://www.linkedin.com/in/noah-dean/'>
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230366C3?logo=linkedin&logoColor=white">
-  </a>
-  <a href='mailto:noahdean927@gmail.com'>
-    <img alt="G-mail" src="https://img.shields.io/badge/Gmail-%23EA4235?logo=gmail&logoColor=white">
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/nohabean)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230366C3?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/noah-dean/)
+[![G-mail](https://img.shields.io/badge/Gmail-%23EA4235?logo=gmail&logoColor=white&style=for-the-badge)](mailto:noahdean927@gmail.com)
 
 -----
 
