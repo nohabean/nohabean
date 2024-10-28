@@ -78,16 +78,21 @@ I am currently a packaging engineer at Honda and a computer science student at O
 ### Developer Tools and Technologies
 
 <p align='left'>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-%23333333?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%234F4F4F?logo=json&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%235FA04E&color=black?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="React.js" src="https://img.shields.io/badge/React.js-%2361DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white&style=for-the-badge" />
 </p>
 
 ### IDEs 
