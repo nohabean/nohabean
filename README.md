@@ -145,7 +145,7 @@ I’m currently learning ...
 
 <div display='left'>
   <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=nohabean&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
-  <img height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=nohabean&hide_border=true&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
+  <img height='150px' src="https://streak-stats.demolab.com?user=nohabean&theme=tokyonight&hide_border=true"/>
 </div>
 
 <!-- contributions graph [![Noah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohabean&custom_title=Contributions&hide_border=true&theme=tokyo-night)](https://github.com/nohabean/github-readme-activity-graph) -->
@@ -156,6 +156,7 @@ I’m currently learning ...
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/nohabean)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230366C3?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/noah-dean/)
 [![G-mail](https://img.shields.io/badge/Gmail-%23EA4235?logo=gmail&logoColor=white&style=for-the-badge)](mailto:noahdean927@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-%230072C6?logo=mailbox.org&logoColor=white&style=for-the-badge)](mailto:deanno@oregonstate.edu)
 
 -----
 
