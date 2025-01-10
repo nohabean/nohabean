@@ -84,7 +84,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" />
-  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-%23#285F4.svg?logo=jetpack-compose&logoColor=white&style=for-the-badge" />
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?logo=jetpack-compose&logoColor=white&style=for-the-badge" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%234F4F4F?logo=json&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=white&style=for-the-badge" />
