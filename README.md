@@ -73,6 +73,7 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23DB7533?logo=amazondocumentdb&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Developer Tools and Technologies
@@ -89,9 +90,11 @@ I am currently a packaging engineer at Honda and a computer science student at O
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%235FA04E&color=black?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-  <img alt="React.js" src="https://img.shields.io/badge/React.js-%2361DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A?logo=selenium&logoColor=white&style=for-the-badge" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white&style=for-the-badge" />
 </p>
