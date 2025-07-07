@@ -131,16 +131,15 @@ I am currently a packaging engineer at Honda and a computer science student at O
 
 <p>
 I’m currently working on ...
-  <ul>• Creating more advanced Android apps</ul>
+  <ul>• Developing a video game</ul>
   <ul>• Creating an e-commerce website for a small business</ul>
-  <ul>• Creating a new web portfolio</ul>
+  <ul>• Creating a cross-platform application for tracking the value of specific media</ul>
 </p>
 <br>
 <p>
 I’m currently learning ...
-  <ul>• Advanced Web Development</ul>
-  <ul>• IOS/Swift App Development</ul>
-  <ul>• Advanced Android App Development</ul>
+  <ul>• Game Development</ul>
+  <ul>• Advanced Cross-Platform App Development</ul>
 </p>
 
 -----
