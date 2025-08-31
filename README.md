@@ -4,7 +4,7 @@
 
 # Hello, my name is Noah
 
-I am currently a packaging engineer at Honda and a computer science student at Oregon State University with the goal of becoming a software engineer.
+I am currently a DevOps Engineer at Huntington Bank and working on obtaining my Master's of Science in Computer Science from Georgia Tech.
 
 -----
 
